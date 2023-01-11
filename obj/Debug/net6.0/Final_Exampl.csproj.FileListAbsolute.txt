@@ -1,0 +1,15 @@
+E:\DZ\Final_Exampl\bin\Debug\net6.0\Final_Exampl.exe
+E:\DZ\Final_Exampl\bin\Debug\net6.0\Final_Exampl.deps.json
+E:\DZ\Final_Exampl\bin\Debug\net6.0\Final_Exampl.runtimeconfig.json
+E:\DZ\Final_Exampl\bin\Debug\net6.0\Final_Exampl.dll
+E:\DZ\Final_Exampl\bin\Debug\net6.0\Final_Exampl.pdb
+E:\DZ\Final_Exampl\obj\Debug\net6.0\Final_Exampl.csproj.AssemblyReference.cache
+E:\DZ\Final_Exampl\obj\Debug\net6.0\Final_Exampl.GeneratedMSBuildEditorConfig.editorconfig
+E:\DZ\Final_Exampl\obj\Debug\net6.0\Final_Exampl.AssemblyInfoInputs.cache
+E:\DZ\Final_Exampl\obj\Debug\net6.0\Final_Exampl.AssemblyInfo.cs
+E:\DZ\Final_Exampl\obj\Debug\net6.0\Final_Exampl.csproj.CoreCompileInputs.cache
+E:\DZ\Final_Exampl\obj\Debug\net6.0\Final_Exampl.dll
+E:\DZ\Final_Exampl\obj\Debug\net6.0\refint\Final_Exampl.dll
+E:\DZ\Final_Exampl\obj\Debug\net6.0\Final_Exampl.pdb
+E:\DZ\Final_Exampl\obj\Debug\net6.0\Final_Exampl.genruntimeconfig.cache
+E:\DZ\Final_Exampl\obj\Debug\net6.0\ref\Final_Exampl.dll
